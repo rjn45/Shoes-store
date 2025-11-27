@@ -1,70 +1,41 @@
-# Getting Started with Create React App
+🥿 ShoeStore – React Shopping Cart App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+A simple and clean React Shopping Cart Application where users can browse shoes, add them to the cart, update quantity, and view the total price.
 
-## Available Scripts
+🚀 Features
 
-In the project directory, you can run:
+Display list of shoe products with image, name, and price
 
-### `npm start`
+Add to Cart functionality
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+Increase / Decrease item quantity
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+Remove item from cart
 
-### `npm test`
+Auto-update Total Price
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+Clean UI design with responsive layout
 
-### `npm run build`
+Built using React functional components
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+🛠️ Tech Stack
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+React JS
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+JavaScript (ES6+)
 
-### `npm run eject`
+CSS for styling
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+useState Hook for state management
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+📸 UI Preview
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+The app has two main sections:
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+Product List (Left)
 
-## Learn More
+Cart Section (Right)
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+Users can add items, update quantity, and see total costs in real time.
 
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+This is the project live link --> https://shoes-store-ap.netlify.app/
